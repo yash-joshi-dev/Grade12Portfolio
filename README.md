@@ -4,7 +4,7 @@ This repository holds all of my Grade 12 Computer Science Projects, along with s
 ## General Content and Organization:
 ### Graphical Applications
 - Bouncing Ball Game
-- Scale Solar System Model Project (add link to this, in other public repository)
+- Scale Solar System Model Project
 - Two-Player Checkers Game
 - Grade 9 Coding and Math Integration Application for Grade 9 Students at School (Grade 12 Final Project, in progress)
 
