@@ -1,0 +1,26 @@
+package grade12_final;
+
+import java.util.Scanner;
+
+public class Program {
+	
+	public static void main(String[] args) {
+		
+		Scanner myInput = new Scanner(System.in);
+		
+		//inputInit
+		
+		try{
+			//code
+		}
+		catch(Exception e) {
+			
+			System.out.println("Looks like an error occurred while trying to run your program");
+		
+		}
+	
+	
+	}
+	
+	
+}

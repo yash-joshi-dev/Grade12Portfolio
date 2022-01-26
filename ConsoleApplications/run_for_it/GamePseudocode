@@ -1,0 +1,12 @@
+Pseudocode:
+
+//ask for the number of players in game
+//create an array that big to store player scores
+//create a method to roll dice and roll six times
+//order the numbers from the roll (store in array)
+//if not starting at one, give player no points
+//if not a two after a one, give player no points
+//else, as long as its consecutive numbers, give player five points for each number
+//if player reaches 100, declare them as the winner
+//go to next players turn if they don't win
+//ask if they want to replay (validate the input)
