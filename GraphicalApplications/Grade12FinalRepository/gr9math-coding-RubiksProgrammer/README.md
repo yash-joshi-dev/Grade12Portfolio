@@ -17,4 +17,4 @@ Classes Page:
 ![Classes Component of Web App](ClassesScreen.png)
 
 Single Class Page:
-![Classes Component of Web App](ClassesScreen.png)
+![Single Class Component of Web App](SingleClassScreen.png)
