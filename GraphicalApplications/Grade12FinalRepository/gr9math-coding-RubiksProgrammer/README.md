@@ -1,2 +1,5 @@
 # Code Learning Platform for Grade 9 Math Students
-This github folder has the code for the final Java application that I created for this project, before switching to making a web application. Since the website has not been deployed yet and I made its github repository private for now, I have included this as the additional information about this project (addressed to people from Hack The North). I will include some pictures of the running Java application here, and maybe some pictures of the current website I am building.
+This github folder has the code for the final Java application that I created for this project, before switching to making a web application. Since the website has not been deployed yet and I made its github repository private for now, I have included this as the additional information about this project (addressed to people from Hack The North).
+
+Here are some pictures of the current website I'm building:
+Login:
